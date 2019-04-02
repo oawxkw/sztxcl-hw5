@@ -19,10 +19,8 @@
 
 ```
 dist/
-    hw5.md
-    hw5-1.png
-    hw5-2.png
-    hw5-3.png
+    hw5.docs
+    hw5.pdf
 src/
     pic/
         test1.pgm
@@ -33,11 +31,11 @@ src/
     hw5.m
 .gitignore
 README.md
-hw5.md
+hw5.pdf
 hw5.txt
 ```
 
 - The `dist/` directory contains all complied reports and pictures.
 - The `src/` directory contains all source code and source pictures.
-- The `hw5.md` file is the homework 5 report file, same as `dist/hw5.md`.
+- The `hw5.pdf` file is the homework 5 report file, same as `dist/hw5.pdf`.
 - The `hw5.txt` file is the homework 5 code file, same as `src/hw5.m`.
